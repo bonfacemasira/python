@@ -16,4 +16,8 @@ def solution(data):
         print(f'{key}: Quantity: {count} Price is {value}')
 
 
-solution(thisdict)
+# solution(thisdict)
+
+houses = {"Bonface": "Eldorado", "Leah": "Velga"}
+# for house in houses:
+print(houses['Leah'])
